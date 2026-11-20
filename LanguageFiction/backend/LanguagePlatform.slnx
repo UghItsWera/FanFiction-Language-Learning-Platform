@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LanguagePlatform.API/LanguagePlatform.API.csproj" />
+  <Project Path="LanguagePlatform.Application/LanguagePlatform.Application.csproj" />
+  <Project Path="LanguagePlatform.Domain/LanguagePlatform.Domain.csproj" />
+  <Project Path="LanguagePlatform.Infrastructure/LanguagePlatform.Infrastructure.csproj" />
+  <Project Path="LanguagePlatform.Tests/LanguagePlatform.Tests.csproj" />
+</Solution>
